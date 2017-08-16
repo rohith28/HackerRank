@@ -4,7 +4,7 @@ When a fruit falls from its tree, it lands  units of distance from its tree of o
 
 Given the value of  for  apples and  oranges, can you determine how many apples and oranges will fall on Sam's house (i.e., in the inclusive range )? Print the number of apples that fall on Sam's house as your first line of output, then print the number of oranges that fall on Sam's house as your second line of output.
 
-Input Format
+##Input Format
 
 The first line contains two space-separated integers denoting the respective values of  and . 
 The second line contains two space-separated integers denoting the respective values of  and . 
@@ -14,7 +14,7 @@ The fifth line contains  space-separated integers denoting the respective distan
 
 Constraints
 
-Output Format
+##Output Format
 
 Print two lines of output:
 
