@@ -5,11 +5,16 @@ There are two kangaroos on a number line ready to jump in the positive direction
 
 A single line of four space-separated integers denoting the respective values of x1,v1, x2,and v2.
 
-Constraints
+Constraints:
+* -1 < x1 < x2 < 10001
+* 0< v1 < 10001
+* 0< v2 < 10001
+
+
 
 ## Output Format
 
 Print YES if they can land on the same location at the same time; otherwise, print NO.
 
-##Note: 
+## Note: 
 The two kangaroos must land at the same location after making the same number of jumps.
